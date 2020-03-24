@@ -33,3 +33,9 @@
 ```
 
 3) Опасный (удалит все файлы): --hard
+
+
+## Отменить коммит, который уже был Запушен Undo a Commit that has Already Been Pushed
+```sh
+➜ git revert xxx
+```
